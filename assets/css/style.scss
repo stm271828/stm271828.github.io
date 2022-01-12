@@ -1,0 +1,33 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+  background: red !important;
+}
+
+.highlight {
+    background: red !important;
+}
+.blob-wrapper {
+    background: red;
+}
+pre {
+    background: red;
+}
+table.rouge-table {
+    background: red !important;
+}
+td.code {
+    background: red !important;
+}
+.blob-wrapper.data.type-typescript {
+}
+.blob-code {
+    background: red !important;
+}
+.blob-num {
+    background: red !important;
+}
